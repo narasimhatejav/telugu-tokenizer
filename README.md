@@ -86,6 +86,3 @@ The corpus contains diverse Telugu content including:
 - Administrative and demographic information
 - Various writing styles and vocabulary
 
-## 🎨 HuggingFace Spaces Demo
-
-Try the interactive demo: [Telugu BPE Tokenizer on HuggingFace Spaces](https://huggingface.co/spaces/YOUR_USERNAME/telugu-bpe-tokenizer)
